@@ -17,20 +17,40 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "R Programming"
+  description = "tidyverse + R Markdown"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Visualisation"
+  description = "ggplot + Tableau + Power BI"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "database"
+  icon_pack = "fa"
+  name = "Databases"
+  description = "PostgreSQL/MySQL/Oracle"
+  
+ [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Numpy + Pandas"
+  
+  [[feature]]
+  icon = "calculator"
+  icon_pack = "fa"
+  name = "Stats"
+  description = "Descriptive + Inferential + Times Series"
+  
+
+  [[feature]]
+  icon = "language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Languages"
+  description = "Fulani + French + English"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

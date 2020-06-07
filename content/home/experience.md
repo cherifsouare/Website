@@ -17,28 +17,46 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  title = "Data Analyst"
+  company = "Aim Smarter Limited"
+  company_url = "https://aimsmarter.co.uk/"
+  location = "Sheffield,UK"
+  date_start = "2019-01-14"
+  date_end = "2020-03-25"
+  description = """Led the development and delivery of Analytics and Business intelligence solutions across the business in the UK, as well as monthly Stakeholder support and development.Responsibilities included:
+  * Managing sales forecasting
+  * Analysing acvities focused on sales, marketing, production, call metrics 
+  and customer service 
+  * Report pipeline automation
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  title = "Business Consultant"
+  company = "Sheffield Hallam University- Venture Matrix"
+  company_url = "https://www.shu.ac.uk/"
+  location = "Sheffield,UK"
+  date_start = "2017-01-01"
+  date_end = "2017-06-25"
+  description = """Advised a Sheffield based non-profit organisation on the regulatory aspects and market conditions for the      introduction of a new product in the UK market based on CVP and SAFe Analyses."""
+  
+  [[experience]]
+  title = "Marketing Data Analyst"
+  company = "Expresso Telecoms Group"
+  company_url = "https://www.expressotelecom.com/"
+  location = "Conakry, Guinea"
+  date_start = "2014-01-01"
+  date_end = "2014-10-31"
+  description = """Analysed marketing and commercial strategies against the business environment. Evaluated impact analysis, Return on Investment on campaigns and sales activities."""
+  
+  [[experience]]
+  title = "Geomarketing Analyst"
+  company = "Expresso Telecoms Group"
+  company_url = "https://www.expressotelecom.com/"
+  location = "Conakry, Guinea"
+  date_start = "2011-08-01"
+  date_end = "2013-12-31"
+  description = """Facilitated business expansion through the identification of high value areas and segments in regions and management of associated market research."""
+ 
 +++
