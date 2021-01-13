@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Currently working as part of the Insights and analytics team at [Social Work England](https://www.socialworkengland.org.uk/). I have previous experience in telecommunications,non-profit,manufacturing,e-commerce analytics. 
+Hi! I am a Data Professional based in Sheffield, UK. Currently working as part of the Insights and analytics team at [Social Work England](https://www.socialworkengland.org.uk/). I have previous experience in telecommunications, non-profit, manufacturing and e-commerce analytics. 
 
-Previously, I earned degrees in Economics at Universite Nongo Conakry (in my native Guinea) and Business & Finance at Sheffield Hallam University in the UK and a Masters in Data Science At the University of Sheffield Information School.
+Previously, I earned degrees in Economics at Universite Nongo Conakry (in my native Guinea) and Business & Finance at Sheffield Hallam University in the UK and a Masters in Data Science at the University of Sheffield Information School.
