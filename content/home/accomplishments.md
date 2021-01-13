@@ -19,6 +19,27 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+organization = "Microsoft"
+  organization_url = "https://www.microsoft.com/"
+  title = "Microsoft Certified Data Analyst Associate"
+  url = ""
+  certificate_url = "https://www.youracclaim.com/badges/661bd5d3-4271-4d05-af7d-321a1ac74ac6"
+  date_start = "2021-01-09"
+  date_end = "2023-01-09"
+  description = "Passed Exam DA-100: Analyzing Data with Microsoft Power BI"
+
+[[item]]
+  organization = "Tableau"
+  organization_url = "https://www.tableau.com/"
+  title = "Tableau Data Scientist"
+  url = "https://www.youracclaim.com/earner/earned/badge/f42def5c-b9ed-4e40-b1fd-4567646d6b31"
+  certificate_url = "https://www.youracclaim.com/earner/earned/badge/f42def5c-b9ed-4e40-b1fd-4567646d6b31"
+  date_start = "2020-06-27"
+  date_end = ""
+  description = "Validated competency and knowledge on how to use Tableau in data science workflows and derive insights from large datasets."
+
+
+[[item]]
   organization = "Udacity"
   organization_url = "https://www.udacity.com/"
   title = "Programming for Data Science with R"
@@ -26,26 +47,7 @@ date_format = "Jan 2006"
   certificate_url = "https://graduation.udacity.com/confirm/624MKVJ2"
   date_start = "2020-05-07"
   date_end = ""
-  description = "Investigated a relational database in PostgreSQL and      explored Bikesahre systems daata in New York in R"
+  description = "Investigated a relational database in PostgreSQL and performed an exploratory analysis on Bikeshare data in New York using R"
 
-#[[item]]
-  #organization = "edX"
-  #organization_url = "https://www.edx.org"
-  #title = "Blockchain Fundamentals"
-  #url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockcha#in-fundamentals"
-  #certificate_url = "https://www.edx.org"
-  #date_start = "2018-03-01"
-  #date_end = ""
-  #description = "Formulated informed blockchain models, hypotheses, and use #cases."
-  
-#[[item]]
-  #organization = "DataCamp"
-  #organization_url = "https://www.datacamp.com"
-  #title = "Object-Oriented Programming in R: S3 and R6 Course"
-  #url = ""
-  #certificate_url = "https://www.datacamp.com"
-  #date_start = "2017-07-01"
-  #date_end = "2017-12-21"
-  #description = ""
 
 +++

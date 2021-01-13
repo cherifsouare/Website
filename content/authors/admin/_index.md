@@ -18,11 +18,11 @@ interests:
 - Data Science
 - Analytics & Data visualization
 - Machine Learning
-- Time Series Analysis 
+- Digital Innovation
 organizations:
-- name: JQ Data
-  url: "https://www.jqdata.co.uk/about.html"
-role: Analytics Consultant
+- name: Social Work England
+  url: "https://www.socialworkengland.org.uk/"
+role: MI Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -45,8 +45,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a data professional living in Sheffield, UK - originally from Guinea in West Africa.I have a background in developing and implementing data-driven decisions frameworks in a variety of industies including telecommunications, non-profit, supply chain & logistics across Africa and the UK.
 
-Currently, I am providing analytics and consultantcy capabilities as part of the analytics solutions and training delivery team at JQ Data focused on the charity and higher education sectors.
-Outside of work, I enjoy spending time with my family and exploring nature.
+Currently working as part of the Insights and analytics team at [Social Work England](https://www.socialworkengland.org.uk/). I have previous experience in telecommunications,non-profit,manufacturing,e-commerce analytics. 
 
+Previously, I earned degrees in Economics at Universite Nongo Conakry (in my native Guinea) and Business & Finance at Sheffield Hallam University in the UK and a Masters in Data Science At the University of Sheffield Information School.
